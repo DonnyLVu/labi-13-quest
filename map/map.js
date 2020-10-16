@@ -11,6 +11,5 @@ quests.forEach(quest => {
     li.appendChild(link);
     link.textContent = quest.title;
     link.href = `/quest/?id=${quest.id}`;
-    ul.append(link);
     ul.append(li);
 }); 

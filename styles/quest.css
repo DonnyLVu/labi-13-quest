@@ -1,0 +1,9 @@
+input{
+    justify-content: center;
+}
+
+button{
+    justify-content: center;
+    display: flex;
+    
+}
